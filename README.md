@@ -41,3 +41,8 @@ Please ensure that your contributions adhere to the project's coding standards a
 - The Flutter team for providing an excellent framework for building beautiful cross-platform applications.
 - Google AI Gemini for offering powerful natural language processing capabilities.
 - Contributors and developers who have helped improve and enhance this project.
+
+## Future Plan
+
+- Integrate Other AI Such As Chat-GPT,Anon.ai,Copilot etc.
+- To make this app as one stop solution for all the AI tools.
